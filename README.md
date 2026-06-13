@@ -52,11 +52,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KayThwetSoeLwin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayThwetSoeLwin&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-</p>
-
 <p align="center"><i>⭐️ Thanks for visiting — let's build something great together!</i></p>
