@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on **modernising .NET Core 8 line-of-business apps & dashboards**
 - 🌱 I'm currently learning **AWS ☁️, Terraform & HashiCorp tooling for Infrastructure as Code**
 - 🎓 I'm completing my **Master of IT in Project Management** at AUT, Auckland, New Zealand
-- 💬 Ask me about **C#, ASP.NET, SQL Server, application support & the full SDLC**
+- 💬 Experienced in **C#, ASP.NET, SQL Server, application support & the full SDLC**
 - 🏆 Awarded the **Pinnacle Award 2019** at **Activants Pte Ltd** for delivering a Singapore Government project
 - 👀 Open to **System Analyst · Application Support · .NET Developer · Software Engineer** roles
 
