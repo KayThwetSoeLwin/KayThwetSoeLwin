@@ -43,12 +43,15 @@
 
 ### 📌 Featured Projects
 
+> A few hands-on projects I built to learn and experiment with.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[School Registration System](https://github.com/KayThwetSoeLwin)** | Streamlines student enrolment across multiple intake cycles, with management dashboards. | .NET Core 8, SQL Server, SSRS |
-| **[Audit Management System](https://github.com/KayThwetSoeLwin)** | Tracks audits end-to-end for a government health agency. Led a team of 3 to build it. | C#, VB.NET, KTA |
-| **[Gov Licensing Portal](https://github.com/KayThwetSoeLwin)** | Public-sector licensing & registration portal handling the full application journey. | C#, Telerik UI, SQL Server |
+| **[PointOfSale](https://github.com/KayThwetSoeLwin/PointOfSale)** | A point-of-sale app for practising retail and checkout workflows. | C#, .NET |
+| **[ApexCharts.MVC](https://github.com/KayThwetSoeLwin/ApexCharts.MVC)** | Interactive charts and dashboards in an ASP.NET MVC app — exploring data visualisation with the ApexCharts library. | ASP.NET MVC, HTML |
+| **[ApexChartsHTML](https://github.com/KayThwetSoeLwin/ApexChartsHTML)** | A plain-HTML version of the ApexCharts demos for quick charting experiments in the browser. | HTML, JavaScript |
+| **[PaginationTesting](https://github.com/KayThwetSoeLwin/PaginationTesting)** | A C# sample exploring data pagination — breaking large result sets into pages for better performance. | C#, .NET |
+| **[SnakesAndLaddersGame](https://github.com/KayThwetSoeLwin/SnakesAndLaddersGame)** | A classic Snakes & Ladders game — a fun project to practise programming logic. | C#, .NET |
 
 ---
 
